@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ian\\source\\repos\\API_Aluno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A4DA56-98E0-40F4-B436-FE38BF9B0B32}|API_Aluno\\API_Aluno.csproj|c:\\users\\ian\\source\\repos\\api_aluno\\api_aluno\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A4DA56-98E0-40F4-B436-FE38BF9B0B32}|API_Aluno\\API_Aluno.csproj|solutionrelative:api_aluno\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A4DA56-98E0-40F4-B436-FE38BF9B0B32}|API_Aluno\\API_Aluno.csproj|c:\\users\\ian\\source\\repos\\api_aluno\\api_aluno\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A4DA56-98E0-40F4-B436-FE38BF9B0B32}|API_Aluno\\API_Aluno.csproj|solutionrelative:api_aluno\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A4DA56-98E0-40F4-B436-FE38BF9B0B32}|API_Aluno\\API_Aluno.csproj|c:\\users\\ian\\source\\repos\\api_aluno\\api_aluno\\repository\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A4DA56-98E0-40F4-B436-FE38BF9B0B32}|API_Aluno\\API_Aluno.csproj|solutionrelative:api_aluno\\repository\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A4DA56-98E0-40F4-B436-FE38BF9B0B32}|API_Aluno\\API_Aluno.csproj|c:\\users\\ian\\source\\repos\\api_aluno\\api_aluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A4DA56-98E0-40F4-B436-FE38BF9B0B32}|API_Aluno\\API_Aluno.csproj|solutionrelative:api_aluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A4DA56-98E0-40F4-B436-FE38BF9B0B32}|API_Aluno\\API_Aluno.csproj|c:\\users\\ian\\source\\repos\\api_aluno\\api_aluno\\validations\\validarmaioridade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A4DA56-98E0-40F4-B436-FE38BF9B0B32}|API_Aluno\\API_Aluno.csproj|solutionrelative:api_aluno\\validations\\validarmaioridade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A4DA56-98E0-40F4-B436-FE38BF9B0B32}|API_Aluno\\API_Aluno.csproj|c:\\users\\ian\\source\\repos\\api_aluno\\api_aluno\\repository\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A4DA56-98E0-40F4-B436-FE38BF9B0B32}|API_Aluno\\API_Aluno.csproj|solutionrelative:api_aluno\\repository\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\API_Aluno\\API_Aluno\\Program.cs",
+              "RelativeDocumentMoniker": "API_Aluno\\Program.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\API_Aluno\\API_Aluno\\Program.cs*",
+              "RelativeToolTip": "API_Aluno\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:18:45.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\API_Aluno\\API_Aluno\\Repository\\IAlunoRepository.cs",
+              "RelativeDocumentMoniker": "API_Aluno\\Repository\\IAlunoRepository.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\API_Aluno\\API_Aluno\\Repository\\IAlunoRepository.cs*",
+              "RelativeToolTip": "API_Aluno\\Repository\\IAlunoRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:38:24.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\API_Aluno\\API_Aluno\\Repository\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "API_Aluno\\Repository\\AlunoRepository.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\API_Aluno\\API_Aluno\\Repository\\AlunoRepository.cs*",
+              "RelativeToolTip": "API_Aluno\\Repository\\AlunoRepository.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:53:54.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidarMaioridade.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\API_Aluno\\API_Aluno\\Validations\\ValidarMaioridade.cs",
+              "RelativeDocumentMoniker": "API_Aluno\\Validations\\ValidarMaioridade.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\API_Aluno\\API_Aluno\\Validations\\ValidarMaioridade.cs",
+              "RelativeToolTip": "API_Aluno\\Validations\\ValidarMaioridade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:12:10.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\API_Aluno\\API_Aluno\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "API_Aluno\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\API_Aluno\\API_Aluno\\Models\\Aluno.cs",
+              "RelativeToolTip": "API_Aluno\\Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:03:32.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\API_Aluno\\API_Aluno\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "API_Aluno\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\API_Aluno\\API_Aluno\\Controllers\\AlunoController.cs*",
+              "RelativeToolTip": "API_Aluno\\Controllers\\AlunoController.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:01:56.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
